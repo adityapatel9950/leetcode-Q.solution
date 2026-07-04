@@ -15,4 +15,9 @@ my leetcode problem solution in python
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0013-roman-to-integer) |
+| [1768-merge-strings-alternately](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/1768-merge-strings-alternately) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
