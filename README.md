@@ -24,4 +24,8 @@ my leetcode problem solution in python
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/1768-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
