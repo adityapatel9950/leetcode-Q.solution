@@ -29,9 +29,14 @@ my leetcode problem solution in python
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
