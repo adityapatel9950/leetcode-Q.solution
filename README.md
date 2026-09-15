@@ -1,5 +1,16 @@
-# leetcode-Q.solution
-A collection of my LeetCode problem solutions, focused on improving problem-solving skills, DSA concepts, and writing efficient code.
+# LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems as part of my DSA and problem-solving practice.
+
+## 🎯 Goals
+
+- Improve Data Structures & Algorithms skills
+- Strengthen problem-solving and logical thinking
+- Practice writing clean and efficient code
+- Track my LeetCode journey
+
+
+> 🚀 Consistency over perfection. One problem at a time.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
