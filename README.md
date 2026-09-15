@@ -1,5 +1,5 @@
 # leetcode-Q.solution
-my leetcode problem solution in python
+A collection of my LeetCode problem solutions, focused on improving problem-solving skills, DSA concepts, and writing efficient code.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
