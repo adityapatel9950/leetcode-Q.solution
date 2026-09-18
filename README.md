@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems as part of my DSA and
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/1768-merge-strings-alternately) |
@@ -42,6 +43,7 @@ This repository contains my solutions to LeetCode problems as part of my DSA and
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0014-longest-common-prefix) |
 | [0605-can-place-flowers](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Prefix Sum
@@ -52,4 +54,8 @@ This repository contains my solutions to LeetCode problems as part of my DSA and
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0605-can-place-flowers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
