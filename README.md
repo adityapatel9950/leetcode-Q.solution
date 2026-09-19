@@ -38,12 +38,14 @@ This repository contains my solutions to LeetCode problems as part of my DSA and
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0605-can-place-flowers](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapatel9950/leetcode-Q.solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Prefix Sum
